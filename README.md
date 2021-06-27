@@ -8,7 +8,3 @@ It can work with OR without GApps and with MicroG etc.
 PRODUCT_PACKAGES += \
     GCamGOPrebuilt
 ```
-
-| Source |
-| ------ |
-| [dev-greatness](https://www.celsoazevedo.com/files/android/google-camera/dev-greatness/) |
